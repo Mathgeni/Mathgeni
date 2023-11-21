@@ -13,6 +13,7 @@
 
 # :sunglasses: About me:
 > ## I am backend python developer from Russia
+> ## THIS IS NOT COMMERTIAL ACC
 # :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
